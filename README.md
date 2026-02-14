@@ -1,0 +1,1 @@
+This dataset provides a country-level comparative view of safety, tourism, and livelihood conditions across multiple regions. it is designed to support data analysis, visualization, and machine learning projects focused on understanding how safety environments influence tourism development and quality of life.
